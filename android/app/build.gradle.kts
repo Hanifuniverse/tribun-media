@@ -6,9 +6,9 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gilang"
+    namespace = "com.example.Tribun"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
